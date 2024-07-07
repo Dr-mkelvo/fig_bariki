@@ -1,0 +1,21 @@
+.arrow-right-child {
+  position: absolute;
+  top: 0.406rem;
+  left: -0.031rem;
+  border-top: 1px solid var(--rgb0-0-0);
+  box-sizing: border-box;
+  width: 0.938rem;
+  height: 0.063rem;
+}
+.path-99-icon {
+  position: absolute;
+  top: 0;
+  left: 0.438rem;
+  width: 0.438rem;
+  height: 0.875rem;
+}
+.arrow-right {
+  width: 100%;
+  position: relative;
+  height: 0.875rem;
+}

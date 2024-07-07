@@ -1,0 +1,119 @@
+.samsung-galaxy-s10-22-child {
+  position: absolute;
+  top: 19.813rem;
+  left: 2.625rem;
+  backdrop-filter: blur(35px);
+  border-radius: var(--br-5xs);
+  background-color: var(--color-gray-700);
+  border: 1px solid var(--color-gray-600);
+  box-sizing: border-box;
+  width: 17.313rem;
+  height: 20.25rem;
+}
+.enter-amount4 {
+  position: absolute;
+  top: 32.063rem;
+  left: 8.238rem;
+  text-transform: capitalize;
+  color: var(--color-darkgray-100);
+}
+.samsung-galaxy-s10-22-item {
+  position: absolute;
+  top: 33.844rem;
+  left: 6.813rem;
+  border-top: 1px solid var(--color-dimgray);
+  box-sizing: border-box;
+  width: 8.875rem;
+  height: 0.063rem;
+}
+.next4 {
+  position: absolute;
+  top: 42.063rem;
+  left: 14.656rem;
+  text-transform: capitalize;
+  cursor: pointer;
+}
+.enter-your-donation {
+  position: absolute;
+  top: 14.563rem;
+  left: 6.75rem;
+  font-weight: 300;
+}
+.samsung-galaxy-s10-22-inner {
+  position: absolute;
+  top: 8rem;
+  left: 9rem;
+  border-radius: 50%;
+  background: linear-gradient(-90deg, #b7cdff, #f1dbee 45.74%, #ffd9e6);
+  border: 1px solid var(--color-white);
+  box-sizing: border-box;
+  width: 4.5rem;
+  height: 4.5rem;
+}
+.component-45-2-child {
+  position: absolute;
+  height: 100%;
+  width: calc(100% - 20px);
+  top: 0;
+  right: 1.25rem;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-deeppink);
+}
+.div1,
+.ksh {
+  position: absolute;
+  top: 0.313rem;
+  left: 0.713rem;
+  text-transform: capitalize;
+}
+.div1 {
+  left: 3.775rem;
+  color: var(--rgb0-0-0);
+}
+.component-45-2 {
+  position: absolute;
+  top: 22.375rem;
+  left: 13.938rem;
+  width: 4.375rem;
+  height: 1.938rem;
+  overflow: hidden;
+  color: var(--color-white);
+}
+.arrow-left-child7 {
+  position: absolute;
+  top: 0.313rem;
+  left: -0.062rem;
+  border-top: 2px solid var(--rgb0-0-0);
+  box-sizing: border-box;
+  width: 1rem;
+  height: 0.125rem;
+}
+.arrow-left9,
+.path-104-icon4 {
+  position: absolute;
+  height: 0.875rem;
+}
+.path-104-icon4 {
+  top: 0;
+  left: 0;
+  width: 0.438rem;
+}
+.arrow-left9 {
+  top: 4.25rem;
+  left: 2.75rem;
+  width: 0.875rem;
+  cursor: pointer;
+}
+.samsung-galaxy-s10-22 {
+  width: 100%;
+  position: relative;
+  background: linear-gradient(-90deg, #b7cdff, #f1dbee 45.74%, #ffd9e6);
+  height: 47.313rem;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-base);
+  color: var(--rgb0-0-0);
+  font-family: var(--font-open-sans);
+}

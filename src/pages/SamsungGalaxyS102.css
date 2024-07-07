@@ -1,0 +1,288 @@
+.samsung-galaxy-s10-23-child {
+  position: absolute;
+  top: 19.813rem;
+  left: calc(50% - 138px);
+  backdrop-filter: blur(35px);
+  border-radius: var(--br-5xs);
+  background-color: var(--color-gray-700);
+  border: 1px solid var(--color-gray-600);
+  box-sizing: border-box;
+  width: 17.313rem;
+  height: 20.25rem;
+}
+.enter-amount2 {
+  position: absolute;
+  top: 25.75rem;
+  left: 8.55rem;
+  text-transform: capitalize;
+}
+.enter-amount3,
+.general-account1,
+.needy-account1 {
+  position: absolute;
+  top: 20.813rem;
+  left: 11.881rem;
+  text-transform: capitalize;
+}
+.enter-amount3,
+.general-account1 {
+  top: 30.688rem;
+  left: 11.144rem;
+}
+.enter-amount3 {
+  top: 35.813rem;
+  left: 8.238rem;
+}
+.samsung-galaxy-s10-23-item {
+  position: absolute;
+  top: 29.906rem;
+  left: 2.625rem;
+  border-top: 1px solid var(--color-gray-100);
+  box-sizing: border-box;
+  width: 17.375rem;
+  height: 0.063rem;
+}
+.customize-your-donation1,
+.next2 {
+  position: absolute;
+  color: var(--rgb0-0-0);
+}
+.next2 {
+  top: 42.063rem;
+  left: 14.656rem;
+  text-transform: capitalize;
+  cursor: pointer;
+}
+.customize-your-donation1 {
+  top: 14.563rem;
+  left: 5.6rem;
+  font-weight: 300;
+}
+.anonymous-donor {
+  position: absolute;
+  top: 4rem;
+  left: 2.625rem;
+  color: var(--rgb0-0-0);
+  display: none;
+  width: 9.188rem;
+}
+.donate-different {
+  position: absolute;
+  top: 2.5rem;
+  left: 0;
+}
+.group-child6 {
+  position: absolute;
+  top: 0;
+  left: 0.094rem;
+  border-radius: var(--br-mini);
+  background-color: var(--color-deeppink);
+  width: 0.263rem;
+  height: 1.494rem;
+}
+.sustainable-development-goals-4 {
+  position: absolute;
+  top: 0.663rem;
+  left: 0;
+  width: 1.194rem;
+  height: 1.094rem;
+  object-fit: cover;
+}
+.group-div {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1.194rem;
+  height: 1.756rem;
+}
+.group-child7 {
+  position: absolute;
+  top: 0;
+  left: 0.919rem;
+  border-radius: var(--br-mini);
+  background-color: var(--color-deeppink);
+  width: 0.288rem;
+  height: 1.094rem;
+}
+.sustainable-development-goals-5 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1.2rem;
+  height: 1.1rem;
+  object-fit: cover;
+}
+.path-25-icon1,
+.rectangle-parent1 {
+  position: absolute;
+  top: 0.663rem;
+  left: 1.294rem;
+  width: 1.2rem;
+  height: 1.1rem;
+}
+.path-25-icon1 {
+  top: 1.038rem;
+  left: 0.188rem;
+  width: 0.856rem;
+  height: 0.675rem;
+  object-fit: contain;
+}
+.group-child8 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-mini);
+  background-color: var(--color-deeppink);
+  width: 0.288rem;
+  height: 1.094rem;
+}
+.group-frame,
+.path-25-group {
+  position: absolute;
+  width: 1.044rem;
+  height: 1.706rem;
+}
+.path-25-group {
+  top: 0;
+  left: 0;
+}
+.group-frame {
+  top: 0.663rem;
+  left: 2.588rem;
+}
+.sustainable-development-goals-6 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 0.388rem;
+  height: 0.356rem;
+  object-fit: cover;
+}
+.group-child9 {
+  position: absolute;
+  top: 0.394rem;
+  left: 0.056rem;
+  border-radius: var(--br-mini);
+  background-color: var(--color-deeppink);
+  width: 0.288rem;
+  height: 1.094rem;
+}
+.group-child10,
+.sustainable-development-goals-container {
+  position: absolute;
+  top: 0.269rem;
+  left: 3.581rem;
+  width: 0.388rem;
+  height: 1.494rem;
+}
+.group-child10 {
+  top: 0.394rem;
+  left: 0.069rem;
+  border-radius: var(--br-mini);
+  background-color: var(--color-deeppink);
+  width: 0.288rem;
+  height: 1.094rem;
+}
+.sustainable-development-goals-parent1 {
+  position: absolute;
+  top: 0.269rem;
+  left: 5.206rem;
+  width: 0.388rem;
+  height: 1.494rem;
+}
+.group-child11 {
+  top: 1.475rem;
+  left: 0.856rem;
+  height: 0.925rem;
+  transform: rotate(47deg);
+  transform-origin: 0 0;
+}
+.group-child11,
+.group-child12,
+.group-child13 {
+  position: absolute;
+  border-radius: var(--br-mini);
+  background-color: var(--color-deeppink);
+  width: 0.288rem;
+}
+.group-child12 {
+  top: 1.744rem;
+  left: 0.281rem;
+  height: 0.925rem;
+  transform: rotate(-43deg);
+  transform-origin: 0 0;
+}
+.group-child13 {
+  top: 0;
+  left: 0;
+  height: 1.638rem;
+}
+.rectangle-parent2 {
+  position: absolute;
+  top: 0.119rem;
+  left: 4.063rem;
+  width: 1.125rem;
+  height: 2.419rem;
+}
+.group-container {
+  position: absolute;
+  top: 0;
+  left: 0.988rem;
+  width: 5.594rem;
+  height: 2.538rem;
+}
+.donate-different-parent {
+  position: absolute;
+  top: 9.063rem;
+  left: 37.2rem;
+  width: 7.625rem;
+  height: 3.875rem;
+  color: var(--color-darkslategray);
+}
+.samsung-galaxy-s10-23-inner {
+  position: absolute;
+  top: 8rem;
+  left: 9rem;
+  border-radius: 50%;
+  background: linear-gradient(-90deg, #b7cdff, #f1dbee 45.74%, #ffd9e6);
+  border: 1px solid var(--color-white);
+  box-sizing: border-box;
+  width: 4.5rem;
+  height: 4.5rem;
+}
+.arrow-left-child2 {
+  position: absolute;
+  top: 0.313rem;
+  left: -0.062rem;
+  border-top: 2px solid var(--rgb0-0-0);
+  box-sizing: border-box;
+  width: 1rem;
+  height: 0.125rem;
+}
+.arrow-left4,
+.path-104-icon2 {
+  position: absolute;
+  height: 0.875rem;
+}
+.path-104-icon2 {
+  top: 0;
+  left: 0;
+  width: 0.438rem;
+}
+.arrow-left4 {
+  top: 4.25rem;
+  left: 2.75rem;
+  width: 0.875rem;
+  cursor: pointer;
+}
+.samsung-galaxy-s10-23 {
+  width: 100%;
+  position: relative;
+  background: linear-gradient(-90deg, #b7cdff, #f1dbee 45.74%, #ffd9e6);
+  height: 47.313rem;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-base);
+  color: var(--color-darkgray-100);
+  font-family: var(--font-open-sans);
+}

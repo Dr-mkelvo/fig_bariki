@@ -1,0 +1,117 @@
+.group-child72 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  backdrop-filter: blur(35px);
+  background-color: var(--color-gray-700);
+  border: 1px solid var(--color-gray-600);
+  box-sizing: border-box;
+  width: 17.875rem;
+  height: 3rem;
+  cursor: pointer;
+}
+.individual {
+  position: absolute;
+  top: 0.75rem;
+  left: calc(50% - 104px);
+  font-weight: 300;
+}
+.user-icon {
+  position: absolute;
+  top: 0.688rem;
+  left: 14.188rem;
+  width: 1.5rem;
+  height: 1.5rem;
+  overflow: hidden;
+}
+.group-child73,
+.rectangle-parent25 {
+  position: absolute;
+  width: 17.875rem;
+  height: 3rem;
+}
+.rectangle-parent25 {
+  top: 33.563rem;
+  left: 2.875rem;
+}
+.group-child73 {
+  top: 0;
+  left: 0;
+  backdrop-filter: blur(35px);
+  background-color: var(--color-gray-700);
+  border: 1px solid var(--color-gray-600);
+  box-sizing: border-box;
+}
+.organization {
+  position: absolute;
+  top: 0.813rem;
+  left: 2.438rem;
+  font-weight: 300;
+}
+.users-icon {
+  position: absolute;
+  top: 0.75rem;
+  left: 14.188rem;
+  width: 1.5rem;
+  height: 1.5rem;
+  overflow: hidden;
+}
+.rectangle-parent26 {
+  position: absolute;
+  top: 38rem;
+  left: 2.875rem;
+  width: 17.875rem;
+  height: 3rem;
+  cursor: pointer;
+}
+.mask-group-62 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 22.5rem;
+  height: 21.625rem;
+  object-fit: cover;
+}
+.arrow-left-child17 {
+  position: absolute;
+  top: 0.4rem;
+  left: -0.037rem;
+  border-top: 1.2px solid var(--rgb0-0-0);
+  box-sizing: border-box;
+  width: 1.006rem;
+  height: 0.075rem;
+}
+.arrow-left19,
+.path-95-icon5 {
+  position: absolute;
+  height: 0.875rem;
+}
+.path-95-icon5 {
+  top: 0;
+  left: 0;
+  width: 0.469rem;
+}
+.arrow-left19 {
+  top: 25.438rem;
+  left: 4.375rem;
+  width: 0.931rem;
+  cursor: pointer;
+}
+.continue-as {
+  position: absolute;
+  top: 29.125rem;
+  left: calc(50% - 110px);
+  font-weight: 300;
+  text-align: left;
+}
+.samsung-galaxy-s10-9 {
+  width: 100%;
+  position: relative;
+  background: linear-gradient(-90deg, #ffd9e6, #b7cdff);
+  height: 47.5rem;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-base);
+  color: var(--rgb0-0-0);
+  font-family: var(--font-open-sans);
+}

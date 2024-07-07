@@ -1,0 +1,38 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;1,300;1,400&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-open-sans: "Open Sans";
+
+  /* font sizes */
+  --font-size-base: 1rem;
+  --font-size-xs: 0.75rem;
+
+  /* Colors */
+  --rgb0-0-0: #000;
+  --color-gray-100: #fbfbfb;
+  --color-gray-200: #897f8d;
+  --color-gray-300: rgba(255, 255, 255, 0.3);
+  --color-gray-400: rgba(255, 255, 255, 0.5);
+  --color-gray-500: rgba(0, 0, 0, 0.02);
+  --color-gray-600: rgba(255, 255, 255, 0);
+  --color-gray-700: rgba(255, 255, 255, 0.1);
+  --color-darkgray-100: #9b9a9a;
+  --color-whitesmoke: #f8fafc;
+  --color-darkslategray: #4a4a4a;
+  --color-dimgray: #707070;
+  --color-deeppink: #ea3275;
+  --color-white: #fff;
+
+  /* Border radiuses */
+  --br-3xs: 10px;
+  --br-5xs: 8px;
+  --br-mini: 15px;
+  --br-8xs: 5px;
+  --br-base: 16px;
+  --br-9xs: 4px;
+  --br-5xl: 24px;
+}

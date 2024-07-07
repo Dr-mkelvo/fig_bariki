@@ -1,0 +1,182 @@
+.samsung-galaxy-s10-15-child {
+  position: absolute;
+  top: 8rem;
+  left: 9rem;
+  border-radius: 50%;
+  width: 4.5rem;
+  height: 4.5rem;
+  object-fit: cover;
+}
+.confirm-your-donation {
+  position: absolute;
+  top: 14.563rem;
+  left: 6.163rem;
+  font-weight: 300;
+}
+.samsung-galaxy-s10-15-item {
+  position: absolute;
+  top: 18.75rem;
+  left: 2.313rem;
+  backdrop-filter: blur(35px);
+  background: linear-gradient(
+    -90deg,
+    rgba(255, 255, 255, 0.01),
+    rgba(255, 255, 255, 0.1)
+  );
+  border: 1px solid transparent;
+  box-sizing: border-box;
+  width: 17.875rem;
+  height: 13.938rem;
+}
+.date,
+.from,
+.m-pesa1,
+.m-pesa2,
+.m-pesa3 {
+  position: absolute;
+  top: 20.313rem;
+  left: 4.081rem;
+  font-weight: 300;
+}
+.date,
+.m-pesa1,
+.m-pesa2,
+.m-pesa3 {
+  left: 11.063rem;
+}
+.date,
+.m-pesa2,
+.m-pesa3 {
+  top: 25.063rem;
+}
+.date,
+.m-pesa3 {
+  top: 29.813rem;
+}
+.date {
+  top: 22.688rem;
+  left: 4.088rem;
+}
+.default,
+.default1,
+.default2,
+.div5,
+.kenya-red-cross4 {
+  position: absolute;
+  top: 29.813rem;
+  left: 4.063rem;
+  font-weight: 300;
+}
+.default1,
+.default2,
+.div5,
+.kenya-red-cross4 {
+  top: 25.063rem;
+}
+.default2,
+.div5,
+.kenya-red-cross4 {
+  top: 27.438rem;
+}
+.div5,
+.kenya-red-cross4 {
+  top: 22.688rem;
+  left: 11.063rem;
+}
+.kenya-red-cross4 {
+  top: 28.5rem;
+}
+.group-child71 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  backdrop-filter: blur(35px);
+  background-color: var(--color-gray-700);
+  border: 1px solid var(--color-gray-600);
+  box-sizing: border-box;
+  width: 17.875rem;
+  height: 3rem;
+}
+.donate-to-my {
+  position: absolute;
+  top: 0.875rem;
+  left: calc(50% - 97px);
+  font-weight: 300;
+}
+.ksh-20001,
+.rectangle-parent24 {
+  position: absolute;
+  cursor: pointer;
+}
+.rectangle-parent24 {
+  top: 34.875rem;
+  left: 2.313rem;
+  width: 17.875rem;
+  height: 3rem;
+}
+.ksh-20001 {
+  top: 41rem;
+  left: calc(50% + 57px);
+}
+.samsung-galaxy-s10-15-inner {
+  position: absolute;
+  top: 17.438rem;
+  left: 17.688rem;
+  backdrop-filter: blur(10px);
+  border-radius: var(--br-3xs);
+  background: linear-gradient(-90deg, rgba(255, 255, 255, 0.08), #fff);
+  border: 1px solid var(--color-whitesmoke);
+  box-sizing: border-box;
+  width: 2.5rem;
+  height: 2.5rem;
+  display: none;
+}
+.arrow-left-child16 {
+  position: absolute;
+  top: 0.313rem;
+  left: -0.062rem;
+  border-top: 2px solid var(--rgb0-0-0);
+  box-sizing: border-box;
+  width: 1rem;
+  height: 0.125rem;
+}
+.arrow-left18,
+.path-104-icon10 {
+  position: absolute;
+  height: 0.875rem;
+}
+.path-104-icon10 {
+  top: 0;
+  left: 0;
+  width: 0.438rem;
+}
+.arrow-left18 {
+  top: 4.25rem;
+  left: 2.75rem;
+  width: 0.875rem;
+  cursor: pointer;
+}
+.settings-icon4 {
+  position: absolute;
+  height: calc(100% - 736px);
+  width: calc(100% - 338px);
+  top: 24.813rem;
+  right: 10.938rem;
+  bottom: 21.188rem;
+  left: 10.188rem;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  display: none;
+}
+.samsung-galaxy-s10-15 {
+  width: 100%;
+  position: relative;
+  background: linear-gradient(-90deg, #b7cdff, #f1dbee 45.74%, #ffd9e6);
+  height: 47.375rem;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-base);
+  color: var(--rgb0-0-0);
+  font-family: var(--font-open-sans);
+}

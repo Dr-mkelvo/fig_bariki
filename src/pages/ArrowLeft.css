@@ -1,0 +1,22 @@
+.arrow-left-child28 {
+  position: absolute;
+  top: 0.4rem;
+  left: -0.037rem;
+  border-top: 1.2px solid var(--rgb0-0-0);
+  box-sizing: border-box;
+  width: 0.95rem;
+  height: 0.075rem;
+}
+.path-95-icon11 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 0.438rem;
+  height: 0.875rem;
+}
+.arrow-left30 {
+  width: 100%;
+  position: relative;
+  height: 0.875rem;
+  cursor: pointer;
+}

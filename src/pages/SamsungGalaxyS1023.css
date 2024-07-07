@@ -1,0 +1,153 @@
+.samsung-galaxy-s10-40-inner {
+  position: absolute;
+  top: 11.063rem;
+  left: calc(50% - 102px);
+  border-radius: var(--br-base);
+  background-color: var(--color-gray-400);
+  border: 1px solid var(--color-gray-300);
+  box-sizing: border-box;
+  width: 13.938rem;
+  height: 2.375rem;
+}
+.step-122 {
+  position: absolute;
+  top: 44.688rem;
+  left: 9.556rem;
+  font-weight: 300;
+  color: var(--color-darkgray-100);
+}
+.complete-your-profile2 {
+  position: absolute;
+  top: 8.063rem;
+  left: calc(50% - 99px);
+  font-weight: 300;
+}
+.arrow-left-child27 {
+  position: absolute;
+  top: 0.4rem;
+  left: -0.037rem;
+  border-top: 1.2px solid var(--rgb0-0-0);
+  box-sizing: border-box;
+  width: 0.95rem;
+  height: 0.075rem;
+}
+.arrow-left29,
+.path-95-icon10 {
+  position: absolute;
+  height: 0.875rem;
+}
+.path-95-icon10 {
+  top: 0;
+  left: 0;
+  width: 0.438rem;
+}
+.arrow-left29 {
+  top: 4.438rem;
+  left: 4.625rem;
+  width: 0.875rem;
+  cursor: pointer;
+}
+.aarp-foundation2 {
+  position: absolute;
+  top: 19.563rem;
+  left: 5.25rem;
+  font-weight: 300;
+}
+.group-child116 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-9xs);
+  width: 2.5rem;
+  height: 2.5rem;
+}
+.aarp-foundation3 {
+  position: absolute;
+  top: 0.563rem;
+  left: 0.938rem;
+  font-weight: 300;
+}
+.vector-group {
+  position: absolute;
+  top: 15.063rem;
+  left: 5.063rem;
+  width: 2.5rem;
+  height: 2.5rem;
+  color: var(--color-deeppink);
+}
+.action-against-hunger1,
+.arcons-children-hospice1 {
+  position: absolute;
+  top: 22.938rem;
+  left: 5.25rem;
+  font-weight: 300;
+}
+.action-against-hunger1 {
+  top: 26.375rem;
+}
+.action-against-hunger1,
+.action1 {
+  text-transform: capitalize;
+}
+.actionaid1 {
+  position: absolute;
+  top: 29.75rem;
+  left: 5.25rem;
+  font-weight: 300;
+  color: var(--color-deeppink);
+  cursor: pointer;
+}
+.acumen2 {
+  top: 31.813rem;
+  left: 5.25rem;
+  font-size: var(--font-size-xs);
+  text-align: left;
+  display: inline-block;
+  width: 12.188rem;
+}
+.acumen2,
+.acumen3,
+.adelson-foundation {
+  position: absolute;
+  text-transform: capitalize;
+  font-weight: 300;
+}
+.acumen3 {
+  top: 11.75rem;
+  left: 6rem;
+  font-size: var(--font-size-xs);
+}
+.adelson-foundation {
+  top: 35.938rem;
+  left: 5.25rem;
+}
+.add-picture4,
+.add-picture5 {
+  position: absolute;
+  top: 40.563rem;
+  left: 5.063rem;
+  color: var(--color-gray-200);
+}
+.add-picture5 {
+  left: 16.313rem;
+  cursor: pointer;
+}
+.path-27-icon5 {
+  position: absolute;
+  top: 7.875rem;
+  left: 17.938rem;
+  width: 1.719rem;
+  height: 1.719rem;
+  object-fit: contain;
+}
+.samsung-galaxy-s10-401 {
+  width: 100%;
+  position: relative;
+  background: linear-gradient(-90deg, #b7cdff, #f1dbee 45.74%, #ffd9e6);
+  height: 47.5rem;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-base);
+  color: var(--rgb0-0-0);
+  font-family: var(--font-open-sans);
+}

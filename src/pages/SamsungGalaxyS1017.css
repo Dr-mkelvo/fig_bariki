@@ -1,0 +1,328 @@
+.menu-child1,
+.menu-child2,
+.menu-child3 {
+  position: absolute;
+  top: 0.313rem;
+  left: -0.062rem;
+  border-top: 2px solid var(--rgb0-0-0);
+  box-sizing: border-box;
+  width: 1.25rem;
+  height: 0.125rem;
+}
+.menu-child2,
+.menu-child3 {
+  top: -0.062rem;
+}
+.menu-child3 {
+  top: 0.688rem;
+}
+.menu2 {
+  position: absolute;
+  top: -10.75rem;
+  left: 6.313rem;
+  width: 1.125rem;
+  height: 0.75rem;
+}
+.group-child88 {
+  position: absolute;
+  top: 0;
+  left: 0.088rem;
+  border-radius: var(--br-mini);
+  background-color: var(--color-deeppink);
+  width: 0.25rem;
+  height: 1.419rem;
+}
+.sustainable-development-goals-36 {
+  position: absolute;
+  top: 0.631rem;
+  left: 0;
+  width: 1.131rem;
+  height: 1.038rem;
+  object-fit: cover;
+}
+.rectangle-parent36 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1.131rem;
+  height: 1.669rem;
+}
+.group-child89 {
+  position: absolute;
+  top: 0.006rem;
+  left: 0.875rem;
+  border-radius: var(--br-mini);
+  background-color: var(--color-deeppink);
+  width: 0.269rem;
+  height: 1.038rem;
+}
+.sustainable-development-goals-37 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1.138rem;
+  height: 1.044rem;
+  object-fit: cover;
+}
+.path-25-icon9,
+.rectangle-parent37 {
+  position: absolute;
+  top: 0.625rem;
+  left: 1.225rem;
+  width: 1.144rem;
+  height: 1.044rem;
+}
+.path-25-icon9 {
+  top: 0.981rem;
+  left: 0.175rem;
+  width: 0.813rem;
+  height: 0.644rem;
+  object-fit: contain;
+}
+.group-child90 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-mini);
+  background-color: var(--color-deeppink);
+  width: 0.269rem;
+  height: 1.038rem;
+}
+.group-wrapper8,
+.path-25-parent7 {
+  position: absolute;
+  width: 0.988rem;
+  height: 1.625rem;
+}
+.path-25-parent7 {
+  top: 0;
+  left: 0;
+}
+.group-wrapper8 {
+  top: 0.631rem;
+  left: 2.463rem;
+}
+.sustainable-development-goals-38 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 0.369rem;
+  height: 0.338rem;
+  object-fit: cover;
+}
+.group-child91 {
+  position: absolute;
+  top: 0.381rem;
+  left: 0.05rem;
+  border-radius: var(--br-mini);
+  background-color: var(--color-deeppink);
+  width: 0.269rem;
+  height: 1.038rem;
+}
+.group-child92,
+.sustainable-development-goals-parent17 {
+  position: absolute;
+  top: 0.25rem;
+  left: 3.4rem;
+  width: 0.369rem;
+  height: 1.419rem;
+}
+.group-child92 {
+  top: 0.381rem;
+  left: 0.063rem;
+  border-radius: var(--br-mini);
+  background-color: var(--color-deeppink);
+  width: 0.269rem;
+  height: 1.038rem;
+}
+.sustainable-development-goals-parent18 {
+  position: absolute;
+  top: 0.25rem;
+  left: 4.944rem;
+  width: 0.369rem;
+  height: 1.419rem;
+}
+.group-child93 {
+  top: 1.4rem;
+  left: 0.813rem;
+  height: 0.881rem;
+  transform: rotate(47deg);
+  transform-origin: 0 0;
+}
+.group-child93,
+.group-child94,
+.group-child95 {
+  position: absolute;
+  border-radius: var(--br-mini);
+  background-color: var(--color-deeppink);
+  width: 0.269rem;
+}
+.group-child94 {
+  top: 1.656rem;
+  left: 0.269rem;
+  height: 0.881rem;
+  transform: rotate(-43deg);
+  transform-origin: 0 0;
+}
+.group-child95 {
+  top: 0;
+  left: 0;
+  height: 1.556rem;
+}
+.rectangle-parent38 {
+  position: absolute;
+  top: 0.113rem;
+  left: 3.856rem;
+  width: 1.069rem;
+  height: 2.3rem;
+}
+.group-parent8 {
+  top: 3.063rem;
+  left: 2.313rem;
+  width: 5.313rem;
+  height: 2.413rem;
+}
+.coinup-icon7,
+.group-parent8,
+.log-in-icon8 {
+  position: absolute;
+  display: none;
+}
+.coinup-icon7 {
+  top: 3.438rem;
+  left: 18.5rem;
+  width: 1.688rem;
+  height: 1.688rem;
+  object-fit: cover;
+}
+.log-in-icon8 {
+  top: 2.875rem;
+  left: 17.938rem;
+  width: 1.125rem;
+  height: 1.125rem;
+}
+.done2 {
+  position: absolute;
+  top: 38.375rem;
+  left: 9.994rem;
+  color: var(--rgb0-0-0);
+  cursor: pointer;
+}
+.group-child96 {
+  position: absolute;
+  top: 1.806rem;
+  left: -0.031rem;
+  border-top: 1px solid var(--color-dimgray);
+  box-sizing: border-box;
+  width: 7.313rem;
+  height: 0.063rem;
+}
+.username1 {
+  position: absolute;
+  top: 0;
+  left: 1.319rem;
+  font-weight: 300;
+}
+.group-child97,
+.line-parent2 {
+  position: absolute;
+  top: 26.625rem;
+  left: 7.625rem;
+  width: 7.25rem;
+  height: 1.838rem;
+}
+.group-child97 {
+  top: 1.813rem;
+  left: -0.031rem;
+  border-top: 1px solid var(--color-dimgray);
+  box-sizing: border-box;
+  width: 7.313rem;
+  height: 0.063rem;
+}
+.password {
+  position: absolute;
+  top: 0;
+  left: 1.419rem;
+  font-weight: 300;
+}
+.line-parent3 {
+  position: absolute;
+  top: 30.688rem;
+  left: 7.625rem;
+  width: 7.25rem;
+  height: 1.844rem;
+}
+.edit-your-profile {
+  position: absolute;
+  top: 8.188rem;
+  left: 7.375rem;
+  color: var(--rgb0-0-0);
+}
+.samsung-galaxy-s10-26-child {
+  position: absolute;
+  top: 14.188rem;
+  left: 8.344rem;
+  border-radius: 50%;
+  background: linear-gradient(-90deg, #b7cdff, #f1dbee 45.74%, #ffd9e6);
+  border: 1px solid var(--color-white);
+  box-sizing: border-box;
+  width: 5.75rem;
+  height: 5.75rem;
+}
+.plus-icon {
+  position: absolute;
+  top: 15.938rem;
+  left: 10.813rem;
+  width: 0.875rem;
+  height: 0.875rem;
+  display: none;
+}
+.add-picture1 {
+  position: absolute;
+  top: 21.5rem;
+  left: 8.65rem;
+  font-weight: 300;
+}
+.arrow-left-child20 {
+  position: absolute;
+  top: 0.4rem;
+  left: -0.037rem;
+  border-top: 1.2px solid var(--rgb0-0-0);
+  box-sizing: border-box;
+  width: 0.95rem;
+  height: 0.075rem;
+}
+.arrow-left22,
+.path-95-icon7 {
+  position: absolute;
+  height: 0.875rem;
+}
+.path-95-icon7 {
+  top: 0;
+  left: 0;
+  width: 0.438rem;
+}
+.arrow-left22 {
+  top: 4.25rem;
+  left: 2.875rem;
+  width: 0.875rem;
+  cursor: pointer;
+}
+.camera-icon2 {
+  position: absolute;
+  top: 16.5rem;
+  left: 10.531rem;
+  width: 1.375rem;
+  height: 1.125rem;
+}
+.samsung-galaxy-s10-26 {
+  width: 100%;
+  position: relative;
+  background: linear-gradient(-90deg, #b7cdff, #f1dbee 45.74%, #ffd9e6);
+  height: 47.5rem;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-base);
+  color: var(--color-darkgray-100);
+  font-family: var(--font-open-sans);
+}

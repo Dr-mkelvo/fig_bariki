@@ -1,0 +1,373 @@
+.samsung-galaxy-s10-17-child {
+  position: absolute;
+  top: 19.813rem;
+  left: 2.625rem;
+  backdrop-filter: blur(35px);
+  border-radius: var(--br-5xs);
+  background-color: var(--color-gray-700);
+  border: 1px solid var(--color-gray-600);
+  box-sizing: border-box;
+  width: 17.313rem;
+  height: 20.25rem;
+}
+.samsung-galaxy-s10-17-item {
+  position: absolute;
+  top: 8rem;
+  left: 9rem;
+  border-radius: 50%;
+  width: 4.5rem;
+  height: 4.5rem;
+  object-fit: cover;
+}
+.select-an-organization1 {
+  position: absolute;
+  top: 14.813rem;
+  left: 6.306rem;
+  font-weight: 300;
+}
+.donate3 {
+  position: absolute;
+  top: 4.125rem;
+  left: 2.606rem;
+}
+.samsung-galaxy-s10-17-inner {
+  position: absolute;
+  top: 17.438rem;
+  left: 17.688rem;
+  backdrop-filter: blur(10px);
+  border-radius: var(--br-3xs);
+  background: linear-gradient(-90deg, rgba(255, 255, 255, 0.08), #fff);
+  border: 1px solid var(--color-whitesmoke);
+  box-sizing: border-box;
+  width: 2.5rem;
+  height: 2.5rem;
+  display: none;
+}
+.arrow-left-child23 {
+  position: absolute;
+  top: 0.375rem;
+  left: -0.062rem;
+  border-top: 2px solid var(--rgb0-0-0);
+  box-sizing: border-box;
+  width: 1rem;
+  height: 0.125rem;
+}
+.arrow-left25,
+.path-104-icon12 {
+  position: absolute;
+  height: 0.875rem;
+}
+.path-104-icon12 {
+  top: 0;
+  left: 0;
+  width: 0.438rem;
+}
+.arrow-left25 {
+  top: 4.25rem;
+  left: 2.75rem;
+  width: 0.875rem;
+  display: none;
+}
+.next8 {
+  position: absolute;
+  top: 42.063rem;
+  left: 14.656rem;
+  text-transform: capitalize;
+  cursor: pointer;
+}
+.search-icon4 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.component-44-1-child {
+  position: absolute;
+  height: calc(100% - 17px);
+  width: calc(100% + 170px);
+  top: 1.375rem;
+  right: -0.5rem;
+  bottom: -0.312rem;
+  left: -10.125rem;
+  border-top: 1px solid var(--color-dimgray);
+  box-sizing: border-box;
+  display: none;
+}
+.search2 {
+  position: absolute;
+  top: 0.125rem;
+  left: -10.044rem;
+  display: none;
+}
+.component-44-1,
+.x-icon5 {
+  position: absolute;
+  overflow: hidden;
+}
+.x-icon5 {
+  height: calc(100% - 6px);
+  width: calc(100% - 6px);
+  top: 0.375rem;
+  right: 0;
+  bottom: 0;
+  left: 0.375rem;
+  max-width: 100%;
+  max-height: 100%;
+  display: none;
+}
+.component-44-1 {
+  top: 22.25rem;
+  left: 15.5rem;
+  width: 1.125rem;
+  height: 1.125rem;
+  color: var(--color-darkgray-100);
+}
+.component-43-1-child {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: 29px;
+  background-color: var(--color-white);
+}
+.search-icon5,
+.x-icon6 {
+  position: absolute;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.search-icon5 {
+  height: calc(100% - 22px);
+  width: calc(100% - 214px);
+  top: 0.625rem;
+  right: 2.188rem;
+  bottom: 0.75rem;
+  left: 11.188rem;
+  display: none;
+}
+.x-icon6 {
+  height: calc(100% - 28px);
+  width: calc(100% - 220px);
+  top: 0.875rem;
+  right: 1.375rem;
+  bottom: 0.875rem;
+  left: 12.375rem;
+}
+.search3 {
+  position: absolute;
+  top: 0.625rem;
+  left: 2.169rem;
+  text-transform: capitalize;
+}
+.component-43-1,
+.settings-icon6 {
+  position: absolute;
+  overflow: hidden;
+  display: none;
+}
+.component-43-1 {
+  top: 21.625rem;
+  left: 4.313rem;
+  width: 14.5rem;
+  height: 2.5rem;
+  color: var(--color-darkgray-100);
+}
+.settings-icon6 {
+  height: calc(100% - 735px);
+  width: calc(100% - 338px);
+  top: 24.813rem;
+  right: 10.875rem;
+  bottom: 21.125rem;
+  left: 10.25rem;
+  max-width: 100%;
+  max-height: 100%;
+}
+.group-child107 {
+  position: absolute;
+  top: 0;
+  left: 0.131rem;
+  border-radius: var(--br-mini);
+  background-color: var(--color-deeppink);
+  width: 0.356rem;
+  height: 2.056rem;
+}
+.sustainable-development-goals-44 {
+  position: absolute;
+  top: 0.913rem;
+  left: 0;
+  width: 1.638rem;
+  height: 1.5rem;
+  object-fit: cover;
+}
+.rectangle-parent42 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1.638rem;
+  height: 2.413rem;
+}
+.sustainable-development-goals-45 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1.65rem;
+  height: 1.513rem;
+  object-fit: cover;
+}
+.group-child108 {
+  position: absolute;
+  top: 0.006rem;
+  left: 1.256rem;
+  border-radius: var(--br-mini);
+  background-color: var(--color-deeppink);
+  width: 0.394rem;
+  height: 1.5rem;
+}
+.path-25-icon11,
+.sustainable-development-goals-parent21 {
+  position: absolute;
+  top: 0.906rem;
+  left: 1.775rem;
+  width: 1.65rem;
+  height: 1.513rem;
+}
+.path-25-icon11 {
+  top: 0.019rem;
+  left: 0.094rem;
+  width: 1.175rem;
+  height: 0.925rem;
+  object-fit: contain;
+}
+.group-child109 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-mini);
+  background-color: var(--color-deeppink);
+  width: 0.394rem;
+  height: 1.5rem;
+}
+.group-wrapper10,
+.path-25-parent9 {
+  position: absolute;
+  width: 1.275rem;
+  height: 1.5rem;
+}
+.path-25-parent9 {
+  top: 0;
+  left: 0;
+}
+.group-wrapper10 {
+  top: 0.913rem;
+  left: 3.556rem;
+}
+.sustainable-development-goals-46 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 0.538rem;
+  height: 0.494rem;
+  object-fit: cover;
+}
+.group-child110 {
+  position: absolute;
+  top: 0.55rem;
+  left: 0.075rem;
+  border-radius: var(--br-mini);
+  background-color: var(--color-deeppink);
+  width: 0.394rem;
+  height: 1.5rem;
+}
+.group-child111,
+.sustainable-development-goals-parent22 {
+  position: absolute;
+  top: 0.363rem;
+  left: 4.913rem;
+  width: 0.538rem;
+  height: 2.05rem;
+}
+.group-child111 {
+  top: 0.55rem;
+  left: 0.094rem;
+  border-radius: var(--br-mini);
+  background-color: var(--color-deeppink);
+  width: 0.394rem;
+  height: 1.5rem;
+}
+.sustainable-development-goals-parent23 {
+  position: absolute;
+  top: 0.363rem;
+  left: 7.144rem;
+  width: 0.538rem;
+  height: 2.05rem;
+}
+.group-child112 {
+  top: 0.644rem;
+  left: 0.944rem;
+  height: 1.269rem;
+  transform: rotate(47deg);
+  transform-origin: 0 0;
+}
+.group-child112,
+.group-child113,
+.group-child114 {
+  position: absolute;
+  border-radius: var(--br-mini);
+  background-color: var(--color-deeppink);
+  width: 0.394rem;
+}
+.group-child113 {
+  top: 1.344rem;
+  left: 0.2rem;
+  height: 1.269rem;
+  transform: rotate(-43deg);
+  transform-origin: 0 0;
+}
+.group-child114 {
+  top: 0;
+  left: 0;
+  height: 2.25rem;
+}
+.rectangle-parent43 {
+  position: absolute;
+  top: 0.163rem;
+  left: 5.575rem;
+  width: 1.35rem;
+  height: 2.275rem;
+}
+.group-parent10,
+.menu-icon3 {
+  position: absolute;
+  top: 28.688rem;
+  left: 7.5rem;
+  width: 7.681rem;
+  height: 2.438rem;
+}
+.menu-icon3 {
+  top: 4.063rem;
+  left: 18.25rem;
+  width: 1.5rem;
+  height: 1.5rem;
+  overflow: hidden;
+}
+.samsung-galaxy-s10-17 {
+  width: 100%;
+  position: relative;
+  background: linear-gradient(-90deg, #b7cdff, #f1dbee 45.74%, #ffd9e6);
+  height: 47.313rem;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-base);
+  color: var(--rgb0-0-0);
+  font-family: var(--font-open-sans);
+}
