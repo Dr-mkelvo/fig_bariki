@@ -1,3 +1,5 @@
+
+
 @import url("https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;1,300;1,400&display=swap");
 body {
   margin: 0;
@@ -36,3 +38,7 @@ body {
   --br-9xs: 4px;
   --br-5xl: 24px;
 }
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
